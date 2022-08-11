@@ -5,7 +5,7 @@
 
 [Приложения с Dockerfile](https://github.com/MaxNelipin/diplom-app)
 
-[Docker-образ](cr.yandex/crpis219qro17q8kksal/nginxapp:0.3)
+[Docker-образ]  cr.yandex/crpis219qro17q8kksal/nginxapp:0.3
 
 [Конфигурации Kubernetes](https://github.com/MaxNelipin/diplom-kube)
 
