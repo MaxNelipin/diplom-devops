@@ -1,5 +1,5 @@
 # diplom-devops
-[Репозиторий Terraform](https://github.com/MaxNelipin/diplom-terrorm)
+[Репозиторий Terraform](https://github.com/MaxNelipin/diplom-terraform)
 
 [Pull Request c комментариями Atlantis](https://github.com/MaxNelipin/diplom-terraform/pull/6)
 
